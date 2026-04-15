@@ -9,7 +9,6 @@ Claude will fetch the SKILL.md from the URL below and append it to the local pro
 
 - [upwork-freelancer]: https://raw.githubusercontent.com/eldardiz/claude/main/skills/upwork-freelancer/SKILL.md
 
-### Hub (External Skills)
+### Hub
 
-Full catalog with install commands and per-skill URLs:
-https://raw.githubusercontent.com/eldardiz/claude/main/hub/CATALOG.md
+https://raw.githubusercontent.com/eldardiz/claude/main/hub/SKILLS-HUB.md
