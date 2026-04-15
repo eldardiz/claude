@@ -8,6 +8,7 @@ Claude will fetch the SKILL.md from the URL below and append it to the local pro
 ### My Skills
 
 - [upwork-freelancer]: https://raw.githubusercontent.com/eldardiz/claude/main/skills/upwork-freelancer/SKILL.md
+- [axamo-site-audit]: https://raw.githubusercontent.com/eldardiz/claude/main/skills/axamo-site-audit/SKILL.md
 
 ### Hub
 
