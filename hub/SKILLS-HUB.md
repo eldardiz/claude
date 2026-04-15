@@ -12,6 +12,7 @@ Skills I built and maintain myself.
 |-------|-------------|---------|
 | upwork-freelancer | Proposal system, case study matching, client comms | https://raw.githubusercontent.com/eldardiz/claude/main/skills/upwork-freelancer/SKILL.md |
 | axamo-site-audit | Full client website audit (SEO, AEO, Design/Dev, Copy) as branded .xlsx | https://raw.githubusercontent.com/eldardiz/claude/main/skills/axamo-site-audit/SKILL.md |
+| linkedin-eldar | Personal LinkedIn content system for Axamo — 4 modes, ICP targeting, voice rules, content gap bank | https://raw.githubusercontent.com/eldardiz/claude/main/skills/linkedin-eldar/SKILL.md |
 
 ---
 
