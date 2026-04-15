@@ -24,6 +24,7 @@ Skills I built and maintain myself.
 ## Content & Copywriting
 | Skill | What it does | Source | Install |
 |-------|-------------|--------|---------|
+| humanizer | Removes signs of AI-generated writing, makes text sound natural | [blader/humanizer](https://github.com/blader/humanizer) | https://raw.githubusercontent.com/blader/humanizer/main/SKILL.md |
 
 ---
 
