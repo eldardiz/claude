@@ -41,4 +41,43 @@ Skills I built and maintain myself.
 
 ---
 
-_Last updated: 2026-04-15. Only add a skill after testing it._
+## QA & Testing
+From: [neonwatty/qa-skills](https://github.com/neonwatty/qa-skills) — QA pipeline: workflow generation → Playwright E2E → 6 audit agents. Next.js-optimized.
+
+### Generators
+| Skill | What it does | Source | Install |
+|-------|-------------|--------|---------|
+| desktop-workflow-generator | Explores codebase, walks live app, co-authors verifications & edge cases | [neonwatty/qa-skills](https://github.com/neonwatty/qa-skills) | https://raw.githubusercontent.com/neonwatty/qa-skills/main/skills/desktop-workflow-generator/SKILL.md |
+| mobile-workflow-generator | Mobile viewport (393×852), iOS HIG awareness, UX anti-pattern detection | [neonwatty/qa-skills](https://github.com/neonwatty/qa-skills) | https://raw.githubusercontent.com/neonwatty/qa-skills/main/skills/mobile-workflow-generator/SKILL.md |
+| multi-user-workflow-generator | Per-persona browser contexts, sync verifications | [neonwatty/qa-skills](https://github.com/neonwatty/qa-skills) | https://raw.githubusercontent.com/neonwatty/qa-skills/main/skills/multi-user-workflow-generator/SKILL.md |
+
+### Converters
+| Skill | What it does | Source | Install |
+|-------|-------------|--------|---------|
+| desktop-workflow-to-playwright | e2e/desktop/ — Chromium tests, auth setup, CI workflow | [neonwatty/qa-skills](https://github.com/neonwatty/qa-skills) | https://raw.githubusercontent.com/neonwatty/qa-skills/main/skills/desktop-workflow-to-playwright/SKILL.md |
+| mobile-workflow-to-playwright | e2e/mobile/ — Chromium + WebKit, UX anti-pattern assertions | [neonwatty/qa-skills](https://github.com/neonwatty/qa-skills) | https://raw.githubusercontent.com/neonwatty/qa-skills/main/skills/mobile-workflow-to-playwright/SKILL.md |
+| multi-user-workflow-to-playwright | e2e/multi-user/ — per-persona auth, multi-context patterns | [neonwatty/qa-skills](https://github.com/neonwatty/qa-skills) | https://raw.githubusercontent.com/neonwatty/qa-skills/main/skills/multi-user-workflow-to-playwright/SKILL.md |
+
+### Runner
+| Skill | What it does | Source | Install |
+|-------|-------------|--------|---------|
+| playwright-runner | Executes workflow markdown interactively via Playwright CLI | [neonwatty/qa-skills](https://github.com/neonwatty/qa-skills) | https://raw.githubusercontent.com/neonwatty/qa-skills/main/skills/playwright-runner/SKILL.md |
+
+### Audits & Analysis
+| Skill | What it does | Source | Install |
+|-------|-------------|--------|---------|
+| adversarial-audit | Maps economic surface area, generates abuse cases across 7 categories | [neonwatty/qa-skills](https://github.com/neonwatty/qa-skills) | https://raw.githubusercontent.com/neonwatty/qa-skills/main/skills/adversarial-audit/SKILL.md |
+| resilience-audit | Finds breakage from unexpected user behavior — dead ends, race conditions, interrupted ops | [neonwatty/qa-skills](https://github.com/neonwatty/qa-skills) | https://raw.githubusercontent.com/neonwatty/qa-skills/main/skills/resilience-audit/SKILL.md |
+| keyword-wedge | Cross-references codebase with Search Console, PostHog, and Keyword Planner for SEO footholds | [neonwatty/qa-skills](https://github.com/neonwatty/qa-skills) | https://raw.githubusercontent.com/neonwatty/qa-skills/main/skills/keyword-wedge/SKILL.md |
+| trust-builder | Finds free-value trust-building opportunities before asking for commitment | [neonwatty/qa-skills](https://github.com/neonwatty/qa-skills) | https://raw.githubusercontent.com/neonwatty/qa-skills/main/skills/trust-builder/SKILL.md |
+| review-learnings | Synthesizes accumulated QA observations into prioritized plugin improvements | [neonwatty/qa-skills](https://github.com/neonwatty/qa-skills) | https://raw.githubusercontent.com/neonwatty/qa-skills/main/skills/review-learnings/SKILL.md |
+| submit-learnings | Filters and submits QA observations as GitHub issues on the plugin repo | [neonwatty/qa-skills](https://github.com/neonwatty/qa-skills) | https://raw.githubusercontent.com/neonwatty/qa-skills/main/skills/submit-learnings/SKILL.md |
+
+### Utility
+| Skill | What it does | Source | Install |
+|-------|-------------|--------|---------|
+| use-profiles | Loads saved auth profiles and surfaces test data files before browser automation | [neonwatty/qa-skills](https://github.com/neonwatty/qa-skills) | https://raw.githubusercontent.com/neonwatty/qa-skills/main/skills/use-profiles/SKILL.md |
+
+---
+
+_Last updated: 2026-04-16. Only add a skill after testing it._
